@@ -6,21 +6,21 @@
 
 ### Create a new Twitter user account
 
-> This is easy, just a link and a sentence about how it is important to not use your own personal account. 
+> To use the RITHM streamer you must use have a twitter account. I don’t recommend using personal account, you can easily create an account using the link below
+https://twitter.com/i/flow/signup?lang=en
 
 ### Create a Twitter developer account
 
-> This will be a few steps. A phone number may be required for confirmation. 
-
-### Create a Twitter developer app
-
-> ... 
+> The next step is to obtain access to Twitter as a developer. Use your Twitter credentials and follow the steps provided in the link below to obtain access to Twitter as a developer.
+https://developer.twitter.com/en/apply-for-access
 
 ## Setting up RITHM
 
 ### Install Git client 
 
-> Link to Git instructions as this will be different for different operating systems.
+> To use the RITHM streamer you must install git, use the link below to install git if you don’t have git already
+
+https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
 ### Download RITHM source files
 
@@ -28,10 +28,22 @@
 
 ```git clone http://github.com/CRMTH/RITHM/```
 
+> Follow the instructions provided in the link below to donwload Twython: 
+https://github.com/ryanmcgrath/twython
+
+>> For the streamer to run Twython must be loacated within the RITHM folder 
+
+### Create a Twitter developer app
+
+> The next step is to create your first app on Twitter. After creating an app your authentication password and keys will be attainlable.
+https://apps.twitter.com/app/new
+
 ### Set up RITHM streamer 
+  
+> After creating your first app, open the "keys and access tokens " tab. There you will find your: Consumer Key (API Key),
+Consumer Secret (API Secret), Access Token, and Access Token Secret.
 
-> How to set up the directory structure in local RITHM files...
-
-> How to find the Twitter API keys and where to paste them in local RITHM files...
+> Using your preffered text editor open the "auth.ini' stored within the RITHM folder and put your Consumer Key (API Key),
+Consumer Secret (API Secret), Access Token, and Access Token Secret into their respective places.
 
 > How to start the streamer. From here on out, use the streamer documentation!
