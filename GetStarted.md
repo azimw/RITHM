@@ -6,13 +6,13 @@
 
 ### Create a new Twitter user account
 
-> To use the RITHM streamer you must use have a twitter account. I don’t recommend using personal account, you can easily create an account using the link below
+> You must have a Twitter account to run the streamer if you don't already have an account use the link below to create one. If you do have an account I strongly recommend you create a seperate one unique to the streamer.
 >
 >https://twitter.com/i/flow/signup?lang=en
 
 ### Create a Twitter developer account
 
-> The next step is to obtain access to Twitter as a developer. Use your Twitter credentials and follow the steps provided in the link below to obtain access to Twitter as a developer.
+> The next step is to obtain access to Twitter as a developer. Use your Twitter credentials and follow the steps provided in the link below to obtain access.
 > 
 >https://developer.twitter.com/en/apply-for-access
 
@@ -37,12 +37,13 @@ https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
 ### Create a Twitter developer app
 
-> The next step is to create your first app on Twitter. After creating an app your authentication password and keys will be attainlable.
+> The next step is to create your first app on Twitter. After creating your first app your authentication keywords will become available.
 > https://apps.twitter.com/app/new
 
 ### Set up RITHM streamer 
   
-> After creating your first app, open the "keys and access tokens " tab. There you will find your: Consumer Key (API Key),
+> After creating your first app, open the "keys and access tokens " tab. 
+> There you will find your: Consumer Key (API Key),
 Consumer Secret (API Secret), Access Token, and Access Token Secret.
 
 > Using your preffered text editor open the "auth.ini' stored within the RITHM folder and put your Consumer Key (API Key),
