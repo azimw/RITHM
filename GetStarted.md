@@ -2,11 +2,11 @@
 > This markdown file needs to be updated so that others can get started using RITHM. There is an open [issue](https://github.com/CRMTH/RITHM/issues/12) related to this. For formatting, don't use these quote blocks (they are just here as placeholders). Use heading formats, numbered lists, and links as much as possible (check your markdown cheat sheet or [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)).
 
 ## Setting up Twitter
-> There are a couple links under "RITHM Streamer" in [README.md](https://github.com/CRMTH/RITHM/blob/master/README.md) to get you started with outlining the processes under this heading. Follow those links and document the steps that you took to get the infrastructure set up.
+There are a couple links under "RITHM Streamer" in [README.md](https://github.com/CRMTH/RITHM/blob/master/README.md) to get you started with outlining the processes under this heading. Follow those links and document the steps that you took to get the infrastructure set up.
 
 ### Create a new Twitter user account
 
-> You must have a Twitter account to run the streamer. If you don't already have an account, use the link below to create one.  I strongly recommend using an account one unique to the streamer.
+ You must have a Twitter account to run the streamer. If you don't already have an account, use the link below to create one.  I strongly recommend using an account one unique to the streamer.
 >
 >https://twitter.com/i/flow/signup?lang=en
 
