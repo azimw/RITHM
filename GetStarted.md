@@ -31,6 +31,7 @@ https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 ```git clone http://github.com/CRMTH/RITHM/```
 
 > Follow the instructions provided in the link below to donwload Twython: 
+>
 > https://github.com/ryanmcgrath/twython
 
 >> For the streamer to run Twython must be loacated within the RITHM folder. This is crucial.
