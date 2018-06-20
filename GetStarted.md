@@ -33,7 +33,7 @@ Follow the instructions provided in the link below to donwload Twython:
 >
 > https://github.com/ryanmcgrath/twython
 
->> For the streamer to run Twython must be loacated within the RITHM folder. **This is crucial**.
+For the streamer to run Twython must be loacated within the RITHM folder. **This is crucial**.
 
 ### Create a Twitter developer app
 
