@@ -7,12 +7,14 @@
 ### Create a new Twitter user account
 
 > To use the RITHM streamer you must use have a twitter account. I don’t recommend using personal account, you can easily create an account using the link below
-.https://twitter.com/i/flow/signup?lang=en
+>
+>https://twitter.com/i/flow/signup?lang=en
 
 ### Create a Twitter developer account
 
 > The next step is to obtain access to Twitter as a developer. Use your Twitter credentials and follow the steps provided in the link below to obtain access to Twitter as a developer.
-> https://developer.twitter.com/en/apply-for-access
+> 
+>https://developer.twitter.com/en/apply-for-access
 
 ## Setting up RITHM
 
