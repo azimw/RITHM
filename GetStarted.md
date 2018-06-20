@@ -38,7 +38,8 @@ https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 ### Create a Twitter developer app
 
 > The next step is to create an app on Twitter. After creating your an app, your authentication keywords will become available.
-> https://apps.twitter.com/app/new
+> 
+>https://apps.twitter.com/app/new
 
 ### Set up RITHM streamer 
   
