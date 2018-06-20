@@ -45,7 +45,7 @@ The next step is to create an app on Twitter. After creating your an app, your a
   
  After creating an app, open the "keys and access tokens " tab. 
  There you will find your:
-> Consumer Key (API Key),Consumer Secret (API Secret), Access Token, and Access Token Secret.
+> Consumer Key (API Key), Consumer Secret (API Secret), Access Token, and Access Token Secret.
 
 Using your preffered text editor open the "auth.ini' stored within the RITHM folder and put your Consumer Key (API Key),
 Consumer Secret (API Secret), Access Token, and Access Token Secret into their respective places.
