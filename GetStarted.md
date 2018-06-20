@@ -7,12 +7,12 @@
 ### Create a new Twitter user account
 
 > To use the RITHM streamer you must use have a twitter account. I don’t recommend using personal account, you can easily create an account using the link below
-https://twitter.com/i/flow/signup?lang=en
+.https://twitter.com/i/flow/signup?lang=en
 
 ### Create a Twitter developer account
 
 > The next step is to obtain access to Twitter as a developer. Use your Twitter credentials and follow the steps provided in the link below to obtain access to Twitter as a developer.
-https://developer.twitter.com/en/apply-for-access
+> https://developer.twitter.com/en/apply-for-access
 
 ## Setting up RITHM
 
@@ -29,14 +29,14 @@ https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 ```git clone http://github.com/CRMTH/RITHM/```
 
 > Follow the instructions provided in the link below to donwload Twython: 
-https://github.com/ryanmcgrath/twython
+> https://github.com/ryanmcgrath/twython
 
 >> For the streamer to run Twython must be loacated within the RITHM folder 
 
 ### Create a Twitter developer app
 
 > The next step is to create your first app on Twitter. After creating an app your authentication password and keys will be attainlable.
-https://apps.twitter.com/app/new
+> https://apps.twitter.com/app/new
 
 ### Set up RITHM streamer 
   
