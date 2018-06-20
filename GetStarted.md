@@ -37,7 +37,7 @@ For the streamer to run Twython must be loacated within the RITHM folder. **This
 
 ### Create a Twitter developer app
 
-The next step is to create an app on Twitter. After creating your an app, your authentication keywords will become available.
+The next step is to create an app on Twitter. After creating an app, your authentication keywords will become available.
 > 
 >https://apps.twitter.com/app/new
 
